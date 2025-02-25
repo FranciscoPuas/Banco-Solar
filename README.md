@@ -5,30 +5,30 @@ Copy
 Este proyecto es una aplicación web para la gestión de usuarios y transferencias en un banco ficticio llamado Banco Solar C.A.
 
 ## Estructura del Proyecto
- .env  
- .gitignore  
- connection/  
-    connection.js    
-controllers/  
-    auth.js  
-    transferencia.js  
-    user.js  
-    usuario.js  
-helpers/  
-    generator-jwt.js  
-    validator-bd.js  
-index.js  
-middlewares/  
-    validar-campos.js  
-    validator-jwt.js  
-    validator-roles.js  
-models/  
-    rol.js  
-    transferencia.js
-    user.js
-    usuario.js
-package.json
-public/
+ .env  <br>
+ .gitignore  <br>
+ connection/  <br>
+    connection.js <br>   
+controllers/  <br>
+    auth.js  <br>
+    transferencia.js  <br>
+    user.js  <br>
+    usuario.js  <br>
+helpers/  <br>
+    generator-jwt.js  <br>
+    validator-bd.js  <br>
+index.js  <br>
+middlewares/  <br>
+    validar-campos.js  <br> 
+    validator-jwt.js  <br>
+    validator-roles.js  <br>
+models/  <br>
+    rol.js  <br>
+    transferencia.js  <br>
+    user.js  <br>
+    usuario.js  <br>
+package.json  <br>
+public/  <br>
     index.html
 routes/
     auth.js
