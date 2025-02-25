@@ -5,10 +5,10 @@ Copy
 Este proyecto es una aplicación web para la gestión de usuarios y transferencias en un banco ficticio llamado Banco Solar C.A.
 
 ## Estructura del Proyecto
- .env  <br>
- .gitignore  <br>
- connection/  <br>
-    connection.js <br>
+ *.env  <br>
+ *.gitignore  <br>
+ *connection/  <br>
+    +connection.js <br>
 controllers/  <br>
     auth.js  <br>
     transferencia.js  <br>
