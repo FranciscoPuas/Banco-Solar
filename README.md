@@ -8,7 +8,7 @@ Este proyecto es una aplicación web para la gestión de usuarios y transferenci
  .env  <br>
  .gitignore  <br>
  connection/  <br>
-    connection.js <br>   
+    connection.js <br>
 controllers/  <br>
     auth.js  <br>
     transferencia.js  <br>
