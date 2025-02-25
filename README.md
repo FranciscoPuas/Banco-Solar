@@ -102,21 +102,21 @@ GET /transferencias: Obtener todas las transferencias.
 POST /transferencia: Crear una nueva transferencia.
 
 Dependencias
-bcryptjs
+-bcryptjs
 
-dotenv
+-dotenv
 
-express
+-express
 
-express-validator
+-express-validator
 
-jsonwebtoken
+-jsonwebtoken
 
-pg
+-pg
 
-pg-hstore
+-pg-hstore
 
-sequelize
+-sequelize
 
 Licencia
 Este proyecto está licenciado bajo la Licencia ISC.
