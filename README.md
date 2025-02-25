@@ -8,43 +8,41 @@ Este proyecto es una aplicación web para la gestión de usuarios y transferenci
 .env
 .gitignore
 connection/
-connection.js
+    connection.js
 controllers/
-auth.js
-transferencia.js
-user.js
-usuario.js
+    auth.js
+    transferencia.js
+    user.js
+    usuario.js
 helpers/
-generator-jwt.js
-validator-bd.js
+    generator-jwt.js
+    validator-bd.js
 index.js
 middlewares/
-validar-campos.js
-validator-jwt.js
-validator-roles.js
+    validar-campos.js
+    validator-jwt.js
+    validator-roles.js
 models/
-rol.js
-transferencia.js
-user.js
-usuario.js
+    rol.js
+    transferencia.js
+    user.js
+    usuario.js
 package.json
 public/
-index.html
+    index.html
 routes/
-auth.js
-transferencia.js
-user.js
-usuario.js
+    auth.js
+    transferencia.js
+    user.js
+    usuario.js
 server/
-server.js
+    server.js
 service/
-auth.js
-transferencia.js
-user.js
-usuario.js
+    auth.js
+    transferencia.js
+    user.js
+    usuario.js
 sync.js
-
-Copy
 
 ## Instalación
 
