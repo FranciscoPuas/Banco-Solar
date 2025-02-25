@@ -33,7 +33,7 @@ public/
 routes/
     auth.js
     transferencia.js  
-    user.js  
+    user.js    
     usuario.js  
 server/  
     server.js  
